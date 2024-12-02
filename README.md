@@ -4,7 +4,7 @@ This is the solution to [Pricing Card ](https://www.uidesigndaily.com/posts/figm
 
 
 ## Design 
-![](./pricing-card-ui.png)
+![](./design/pricing-card-ui.png)
 
 
 ## Screenshot
